@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MrZzzz
-- 👀 I’m interested in Raspberry Pi...
-- 🌱 I’m currently learning Python...
 
 
 <!---
